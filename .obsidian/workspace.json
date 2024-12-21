@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "de1e218f5e1b1414",
+    "type": "split",
+    "children": [
+      {
+        "id": "dea7970011972b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d71d355755795c03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-12-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d221f095650f30ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7123fddc81b1dc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4628e23e88c4cfb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caae0e612ffea284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "199821c2a1c5aad3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80dc630481f3a2fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2b48b0ac21e878b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0f697cb7beca91b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-12-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-21"
+            }
+          },
+          {
+            "id": "cb2638813ee57485",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-12-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-12-16"
+            }
+          },
+          {
+            "id": "8521b31934c8fbaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4ef9b371eda9204",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-12-16.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-16"
+            }
+          },
+          {
+            "id": "7406d5c44f75a28c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d71d355755795c03",
+  "lastOpenFiles": [
+    "2024-12-20.md",
+    "2024-12-21.md",
+    "2024-12-18.md",
+    "2024-12-16.md",
+    "Untitled.canvas",
+    "2024-10-16.md",
+    "2024-10-07.md",
+    "제목.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
